@@ -1,0 +1,7 @@
+{
+  "name": "Base Ecosystem Quiz",
+  "description": "A fun quiz about the Base ecosystem",
+  "url": "https://farcaster.xyz/miniapps/SxKPGUekTxSU/base-ecosystem-quiz",
+  "icon": "https://farcaster.xyz/favicon.ico",
+  "permissions": ["user_profile"]
+}
